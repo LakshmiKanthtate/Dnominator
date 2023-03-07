@@ -1,9 +1,23 @@
 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PKNLSMW');</script>
+<!-- End Google Tag Manager -->
 
-In todays news letter let us discuss about what pushed UK's economy to 6th largest economy giving up for India 
+
+
+In todays news letter let us discuss about what pushed UK's economy to 6th largest economy giving up for India
 
 #### The UK's economic turmoil ####
 The global economic crises in 2008 took the world by storm due to the meltdown of real estate prices caused due to subprime mortgage crises not only effected the United States but the whole world collectively. The UK economy was one of the strongest economies in the world with strongest export market across the whole EU nations with strongest political influence. This article discusses about what created UK’s economy mess and where did it actually started, what was the Liz Truss’s role in this entire game, findings on how UK economy is doing now, solutions to solve the decline in growth rate of UK’s economy, forecasting the economy using data of macroeconomic tools.
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PKNLSMW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 ![image](https://user-images.githubusercontent.com/127121816/223183764-d00a4a33-485f-4d22-8026-988a0e5dbd90.png)
 
