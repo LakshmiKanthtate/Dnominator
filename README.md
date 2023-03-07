@@ -1,7 +1,5 @@
 # Factonomics #
 
-## Finance Unlocked ##
-
 In todays news letter let us discuss about what pushed UK's economy to 6th largest economy giving up for India 
 
 #### The UK's economic turmoil ####
