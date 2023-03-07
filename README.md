@@ -7,7 +7,9 @@ In todays news letter let us discuss about what pushed UK's economy to 6th large
 #### The UK's economic turmoil ####
 The global economic crises in 2008 took the world by storm due to the meltdown of real estate prices caused due to subprime mortgage crises not only effected the United States but the whole world collectively. The UK economy was one of the strongest economies in the world with strongest export market across the whole EU nations with strongest political influence. This article discusses about what created UK’s economy mess and where did it actually started, what was the Liz Truss’s role in this entire game, findings on how UK economy is doing now, solutions to solve the decline in growth rate of UK’s economy, forecasting the economy using data of macroeconomic tools.
 
-![image](https://user-images.githubusercontent.com/127121816/223183764-d00a4a33-485f-4d22-8026-988a0e5dbd90.png)Negative effects of Brexit on British Economy:
+![image](https://user-images.githubusercontent.com/127121816/223183764-d00a4a33-485f-4d22-8026-988a0e5dbd90.png)
+
+Negative effects of Brexit on British Economy:
 
 The Geopolitical Tensions effect on the Economy of United Kingdom
 The pound fell 12% in value immediately after the referendum results were announced, with the exchange rate between the pound and the US dollar dropping to its lowest level since May 9, 1985. Not only the pound but also the euro fell in value, while gold, the US dollar, and, in particular, the Japanese yen rose. UK and EU economic growth has slowed. According to the OECD, the UK economy was down nearly 1.5% by 2018, the pound depreciated by 20%. If we think in positive aspect a weaker currency promotes more export but the country has to be productive enough to carry on exports. 
